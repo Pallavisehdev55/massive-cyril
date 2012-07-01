@@ -1,4 +1,4 @@
 massive-cyril
 =============
 
-It contains whopping codes for programming software 
+It contains whopping codes for programming a software using C# as a Front End. C# is a Object-oriented programming language (OOP) which means it is a programming paradigm which uses data structures like data fields, methods with their interaction to design programs. The main features of C# is Data abstraction, Module Programming, Inheritance, encapsulation, polymorphism and messaging. Its is designed for Common Language Infrastructure which means it is an open specification which contains executable codes and run time environment which allows high level languages like C# , Java etc to be used in different computer without being rewritten. 
